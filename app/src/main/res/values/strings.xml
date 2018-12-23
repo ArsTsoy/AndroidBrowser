@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="editText">Type address or search</string>
+    <string name="goButton"> > </string>
+    <string name="title">Home Page</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="welcomeTitle">WELCOME</string>
+
+    <!--<string name="button2">Главная</string>-->
+    <!--<string name="button3">Назад</string>-->
+
+</resources>
